@@ -15,3 +15,6 @@ Bloc cubit mimarisi
 Sensor kütüphaneleri(sensor_plus)
 gemini kütüphanesi
 Bazı gerekli ui kütüphaneleri (chat bubbles,gap,dynamic_themes …)
+
+
+![WhatsApp Image 2024-04-26 at 23 07 24 (1)](https://github.com/ensarmese/take_fit/assets/149183841/886c3865-1b23-49b6-b63d-ad5a89f0fb7f)
